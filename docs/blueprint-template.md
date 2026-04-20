@@ -80,7 +80,7 @@
 
 ### [Nguyễn Trọng Thiên Khôi]
 - [TASKS_COMPLETED]: Compiled team blueprint report, coordinated evidence collection, ran load tests and incident injection to verify system observability, fixed tracing configuration (load_dotenv), led demo preparation.
-- [EVIDENCE_LINK]: [TODO: link commit]
+- [EVIDENCE_LINK]: [https://github.com/VinUni-AI20k/Lab13-Observability/commit/c90ce3d6d41a3860d0d283e5bc7160b8a6cddc1b]
 
 ---
 
